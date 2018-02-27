@@ -105,6 +105,13 @@ credentials.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/64Qq31ucGy0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+#### Youtube Video
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
+
+#### Vimeo Video
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
 
 #### H4 My Work accompanies the Node.js application.
 
